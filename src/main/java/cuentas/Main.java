@@ -17,6 +17,10 @@ public class Main {
         operativa_cuenta(5000);
     }
 
+    /**
+     * 
+     * @param cantidad 
+     */
     public static void operativa_cuenta(float cantidad) {
         // TODO code application logic here
         CCuenta cuenta1;
